@@ -1,0 +1,125 @@
+2024-05-30 12:51:58,896 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-05-30 12:51:59,381 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-05-30 13:00:35,313 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-05-30 13:00:35,594 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-05-30 13:03:13,890 [main] INFO  DashboardSteps.user_landing_on_profile_page(29) - Browser opened
+2024-05-30 13:03:14,340 [main] INFO  DashboardSteps.user_landing_on_profile_page(31) - SignIn button clicked
+2024-05-30 13:03:14,340 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-05-30 13:03:14,618 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-05-30 13:03:14,618 [main] INFO  DashboardSteps.user_landing_on_profile_page(33) - Logged to Profile page
+2024-05-30 13:07:16,561 [main] INFO  DashboardSteps.user_landing_on_profile_page(29) - Browser opened
+2024-05-30 13:07:16,916 [main] INFO  DashboardSteps.user_landing_on_profile_page(31) - SignIn button clicked
+2024-05-30 13:07:16,917 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-05-30 13:07:17,200 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-05-30 13:07:17,200 [main] INFO  DashboardSteps.user_landing_on_profile_page(33) - Logged to Profile page
+2024-05-30 13:07:52,428 [main] INFO  DashboardSteps.user_landing_on_profile_page(29) - Browser opened
+2024-05-30 13:07:52,826 [main] INFO  DashboardSteps.user_landing_on_profile_page(31) - SignIn button clicked
+2024-05-30 13:07:52,827 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-05-30 13:07:53,078 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-05-30 13:07:53,079 [main] INFO  DashboardSteps.user_landing_on_profile_page(33) - Logged to Profile page
+2024-05-30 13:07:54,536 [main] INFO  DashboardSteps.user_can_see_username_on_profile_dropdown_button(41) - Username verified.
+2024-05-30 13:10:46,412 [main] INFO  CartFunctionalitySteps.user_landing_on_book_page(30) - Browser opened, landed on book page
+2024-05-30 13:10:46,973 [main] INFO  CartFunctionalitySteps.user_click_on(35) - Clicked on Lessons in Chemistry: A Novel
+2024-05-30 13:18:15,186 [main] INFO  CartFunctionalitySteps.user_landing_on_book_page(30) - Browser opened, landed on book page
+2024-05-30 13:18:15,785 [main] INFO  CartFunctionalitySteps.user_click_on(35) - Clicked on Lessons in Chemistry: A Novel
+2024-05-30 13:18:15,795 [main] INFO  CartFunctionalitySteps.user_redirected_to_that_book_page(43) - Redirected to: https://bookclubs.com/books/lessons-in-chemistry-a-novel-137422
+2024-05-30 13:18:15,910 [main] INFO  CartFunctionalitySteps.user_click_on_bookshop_button(49) - Clicked on bookshop button
+2024-05-30 13:18:18,683 [main] INFO  CartFunctionalitySteps.user_transfer_to_new_tab_with_option_add_to_cart(62) - Actual title of the second window tab is: Lessons in Chemistry a book by Bonnie Garmus
+2024-05-30 13:18:18,742 [main] INFO  CartFunctionalitySteps.click_on_add_to_cart_button(71) - Clicked on ADD TO CART button
+2024-05-30 13:18:19,124 [main] INFO  CartFunctionalitySteps.user_see_pop_up_window_with_option_keep_shopping_and_checkout_out(77) - POP-UP window visiable
+2024-05-30 13:18:19,139 [main] INFO  CartFunctionalitySteps.user_see_pop_up_window_with_option_keep_shopping_and_checkout_out(79) - Checkout button displayed
+2024-05-30 13:18:27,442 [main] INFO  CartFunctionalitySteps.user_click_on_checkout_button(86) - Check out button clicked
+2024-05-30 13:24:09,576 [main] INFO  CartFunctionalitySteps.user_landing_on_book_page(30) - Browser opened, landed on book page
+2024-05-30 13:24:09,933 [main] INFO  CartFunctionalitySteps.user_click_on(35) - Clicked on Lessons in Chemistry: A Novel
+2024-05-30 13:24:09,945 [main] INFO  CartFunctionalitySteps.user_redirected_to_that_book_page(43) - Redirected to: https://bookclubs.com/books/lessons-in-chemistry-a-novel-137422
+2024-05-30 13:24:10,017 [main] INFO  CartFunctionalitySteps.user_click_on_bookshop_button(49) - Clicked on BOOKSHOP button
+2024-05-30 13:24:12,062 [main] INFO  CartFunctionalitySteps.user_transfer_to_new_tab_with_option_add_to_cart(62) - Actual title of the second window tab is: Lessons in Chemistry a book by Bonnie Garmus
+2024-05-30 13:24:12,141 [main] INFO  CartFunctionalitySteps.click_on_add_to_cart_button(71) - Clicked on ADD TO CART button
+2024-05-30 13:24:12,502 [main] INFO  CartFunctionalitySteps.user_see_pop_up_window_with_option_keep_shopping_and_checkout_out(77) - POP-UP window visiable
+2024-05-30 13:24:12,522 [main] INFO  CartFunctionalitySteps.user_see_pop_up_window_with_option_keep_shopping_and_checkout_out(79) - Checkout button displayed
+2024-05-30 13:24:20,823 [main] INFO  CartFunctionalitySteps.user_click_on_checkout_button(86) - Check out button clicked
+2024-05-30 13:26:06,461 [main] INFO  CartFunctionalitySteps.user_landing_on_book_page(30) - Browser opened, landed on book page
+2024-05-30 13:26:06,841 [main] INFO  CartFunctionalitySteps.user_click_on(35) - Clicked on Lessons in Chemistry: A Novel
+2024-05-30 13:26:06,852 [main] INFO  CartFunctionalitySteps.user_redirected_to_that_book_page(43) - Redirected to: https://bookclubs.com/books/lessons-in-chemistry-a-novel-137422
+2024-05-30 13:26:07,122 [main] INFO  CartFunctionalitySteps.user_click_on_bookshop_button(49) - Clicked on BOOKSHOP button
+2024-05-30 13:26:09,492 [main] INFO  CartFunctionalitySteps.user_transfer_to_new_tab_with_option_add_to_cart(62) - Actual title of the second window tab is: Lessons in Chemistry a book by Bonnie Garmus
+2024-05-30 13:26:09,568 [main] INFO  CartFunctionalitySteps.click_on_add_to_cart_button(71) - Clicked on ADD TO CART button
+2024-05-30 13:26:14,468 [main] INFO  CartFunctionalitySteps.user_see_pop_up_window_with_option_keep_shopping_and_checkout_out(77) - POP-UP window visiable
+2024-05-30 13:26:14,506 [main] INFO  CartFunctionalitySteps.user_see_pop_up_window_with_option_keep_shopping_and_checkout_out(79) - Checkout button displayed
+2024-05-30 13:26:23,048 [main] INFO  CartFunctionalitySteps.user_click_on_checkout_button(86) - Check out button clicked
+2024-05-30 21:18:20,496 [main] INFO  DashboardSteps.user_landing_on_profile_page(29) - Browser opened
+2024-05-30 21:18:21,537 [main] INFO  DashboardSteps.user_landing_on_profile_page(31) - SignIn button clicked
+2024-05-30 21:18:21,538 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-05-30 21:18:21,955 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-05-30 21:18:21,957 [main] INFO  DashboardSteps.user_landing_on_profile_page(33) - Logged to Profile page
+2024-05-30 21:20:40,782 [main] INFO  DashboardSteps.user_landing_on_profile_page(29) - Browser opened
+2024-05-30 21:20:41,243 [main] INFO  DashboardSteps.user_landing_on_profile_page(31) - SignIn button clicked
+2024-05-30 21:20:41,243 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-05-30 21:20:41,526 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-05-30 21:20:41,527 [main] INFO  DashboardSteps.user_landing_on_profile_page(33) - Logged to Profile page
+2024-05-30 21:20:42,682 [main] INFO  DashboardSteps.user_see_list_of_dropdown(57) - Profile dropdown functionality: [[ChromeDriver: chrome on mac (e6e4d537cc51946852e66f82c0f216a6)] -> xpath: //div[@class='content-right']/ul/li[2]/ul//li]
+2024-05-30 21:20:42,687 [main] INFO  DashboardSteps.user_see_list_of_dropdown(57) - Profile dropdown functionality: [[ChromeDriver: chrome on mac (e6e4d537cc51946852e66f82c0f216a6)] -> xpath: //div[@class='content-right']/ul/li[2]/ul//li]
+2024-05-30 21:20:42,692 [main] INFO  DashboardSteps.user_see_list_of_dropdown(57) - Profile dropdown functionality: [[ChromeDriver: chrome on mac (e6e4d537cc51946852e66f82c0f216a6)] -> xpath: //div[@class='content-right']/ul/li[2]/ul//li]
+2024-05-30 21:21:06,234 [main] INFO  DashboardSteps.user_landing_on_profile_page(29) - Browser opened
+2024-05-30 21:21:07,018 [main] INFO  DashboardSteps.user_landing_on_profile_page(31) - SignIn button clicked
+2024-05-30 21:21:07,019 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-05-30 21:21:07,537 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-05-30 21:21:07,537 [main] INFO  DashboardSteps.user_landing_on_profile_page(33) - Logged to Profile page
+2024-05-30 21:21:08,997 [main] INFO  DashboardSteps.user_see_list_of_dropdown(57) - Profile dropdown functionality: 
+2024-05-30 21:21:09,002 [main] INFO  DashboardSteps.user_see_list_of_dropdown(57) - Profile dropdown functionality: 
+2024-05-30 21:21:09,007 [main] INFO  DashboardSteps.user_see_list_of_dropdown(57) - Profile dropdown functionality: 
+2024-05-30 21:22:37,165 [main] INFO  DashboardSteps.user_landing_on_profile_page(29) - Browser opened
+2024-05-30 21:22:37,625 [main] INFO  DashboardSteps.user_landing_on_profile_page(31) - SignIn button clicked
+2024-05-30 21:22:37,626 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-05-30 21:22:37,884 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-05-30 21:22:37,885 [main] INFO  DashboardSteps.user_landing_on_profile_page(33) - Logged to Profile page
+2024-05-30 21:22:39,071 [main] INFO  DashboardSteps.user_see_list_of_dropdown(54) - Profile dropdown functionality: 
+2024-05-30 21:22:39,078 [main] INFO  DashboardSteps.user_see_list_of_dropdown(54) - Profile dropdown functionality: 
+2024-05-30 21:22:39,083 [main] INFO  DashboardSteps.user_see_list_of_dropdown(54) - Profile dropdown functionality: 
+2024-05-30 21:25:03,796 [main] INFO  DashboardSteps.user_landing_on_profile_page(36) - Browser opened
+2024-05-30 21:25:04,229 [main] INFO  DashboardSteps.user_landing_on_profile_page(38) - SignIn button clicked
+2024-05-30 21:25:04,230 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-05-30 21:25:04,512 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-05-30 21:25:04,516 [main] INFO  DashboardSteps.user_landing_on_profile_page(40) - Logged to Profile page
+2024-05-30 21:25:06,627 [main] INFO  DashboardSteps.user_see_list_of_dropdown(62) - Profile dropdown functionality: 
+2024-05-30 21:25:06,633 [main] INFO  DashboardSteps.user_see_list_of_dropdown(62) - Profile dropdown functionality: 
+2024-05-30 21:25:06,637 [main] INFO  DashboardSteps.user_see_list_of_dropdown(62) - Profile dropdown functionality: 
+2024-05-30 21:26:15,876 [main] INFO  DashboardSteps.user_landing_on_profile_page(36) - Browser opened
+2024-05-30 21:26:16,401 [main] INFO  DashboardSteps.user_landing_on_profile_page(38) - SignIn button clicked
+2024-05-30 21:26:16,402 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-05-30 21:26:16,693 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-05-30 21:26:16,693 [main] INFO  DashboardSteps.user_landing_on_profile_page(40) - Logged to Profile page
+2024-05-30 21:26:18,124 [main] INFO  DashboardSteps.user_click_on_username_profile(55) - Profile Username Button clicked
+2024-05-30 21:26:18,181 [main] INFO  DashboardSteps.user_see_list_of_dropdown(62) - Profile dropdown functionality: 
+2024-05-30 21:26:18,186 [main] INFO  DashboardSteps.user_see_list_of_dropdown(62) - Profile dropdown functionality: 
+2024-05-30 21:26:18,192 [main] INFO  DashboardSteps.user_see_list_of_dropdown(62) - Profile dropdown functionality: 
+2024-05-30 21:41:00,517 [main] INFO  DashboardSteps.user_landing_on_profile_page(36) - Browser opened
+2024-05-30 21:41:00,938 [main] INFO  DashboardSteps.user_landing_on_profile_page(38) - SignIn button clicked
+2024-05-30 21:41:00,938 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-05-30 21:41:01,265 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-05-30 21:41:01,266 [main] INFO  DashboardSteps.user_landing_on_profile_page(40) - Logged to Profile page
+2024-05-30 21:41:03,824 [main] INFO  DashboardSteps.user_click_on_username_profile(55) - Profile Username Button clicked
+2024-05-30 21:41:03,846 [main] INFO  DashboardSteps.user_see_list_of_dropdown(62) - Profile dropdown functionality: 
+2024-05-30 21:41:03,851 [main] INFO  DashboardSteps.user_see_list_of_dropdown(62) - Profile dropdown functionality: 
+2024-05-30 21:41:03,856 [main] INFO  DashboardSteps.user_see_list_of_dropdown(62) - Profile dropdown functionality: 
+2024-06-01 10:31:14,992 [main] INFO  DashboardSteps.user_landing_on_profile_page(36) - Browser opened
+2024-06-01 10:31:15,514 [main] INFO  DashboardSteps.user_landing_on_profile_page(38) - SignIn button clicked
+2024-06-01 10:31:15,515 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-06-01 10:31:15,831 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-06-01 10:31:15,832 [main] INFO  DashboardSteps.user_landing_on_profile_page(40) - Logged to Profile page
+2024-06-01 10:31:16,988 [main] INFO  DashboardSteps.user_click_on_username_profile(55) - Profile Username Button clicked
+2024-06-01 10:31:16,999 [main] INFO  DashboardSteps.user_see_list_of_dropdown(61) - Profile dropdown functionality: [[ChromeDriver: chrome on mac (c2f1a68329276b77d14528448a5e308d)] -> xpath: //div[@class='content-right']/ul/li[2]/ul//li]
+2024-06-01 10:32:01,255 [main] INFO  DashboardSteps.user_landing_on_profile_page(36) - Browser opened
+2024-06-01 10:32:01,690 [main] INFO  DashboardSteps.user_landing_on_profile_page(38) - SignIn button clicked
+2024-06-01 10:32:01,690 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-06-01 10:32:01,927 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-06-01 10:32:01,928 [main] INFO  DashboardSteps.user_landing_on_profile_page(40) - Logged to Profile page
+2024-06-01 10:32:03,499 [main] INFO  DashboardSteps.user_click_on_username_profile(55) - Profile Username Button clicked
+2024-06-01 10:32:03,519 [main] INFO  DashboardSteps.user_see_list_of_dropdown(62) - Profile dropdown functionality: 
+2024-06-01 12:44:34,976 [main] INFO  DashboardSteps.user_landing_on_profile_page(37) - Browser opened
+2024-06-01 12:44:35,363 [main] INFO  DashboardSteps.user_landing_on_profile_page(39) - SignIn button clicked
+2024-06-01 12:44:35,363 [main] INFO  LoginPage.login(35) - Attempting to log in with username: yulliaroberts123@gmail.com
+2024-06-01 12:44:35,659 [main] INFO  LoginPage.login(41) - Sign in button clicked.
+2024-06-01 12:44:35,665 [main] INFO  DashboardSteps.user_landing_on_profile_page(41) - Logged to Profile page
+2024-06-01 12:44:36,917 [main] INFO  DashboardSteps.user_click_on_username_profile(56) - Profile Username Button clicked
+2024-06-01 12:44:36,943 [main] INFO  DashboardSteps.user_see_list_of_dropdown(63) - Profile dropdown functionality: 
